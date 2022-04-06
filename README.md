@@ -1,3 +1,3 @@
-Clone the code
-npm install
+Clone the code <br>
+npm install<br>
 npm start
